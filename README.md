@@ -26,8 +26,7 @@ It is designed to demonstrate **Pandas, and Matplotlib** skills at an intermedia
 
 3. **Storytelling Visualizations** (Matplotlib)  
    - Histogram → Age distribution of patients  
-   - Line Chart → Average blood pressure across age groups  
-   - Scatter Plot → Cholesterol vs Glucose colored by risk  
+   - Line Chart → Average blood pressure across age groups    
    - Bar Chart → Lifestyle risks by gender  
    - Stacked Bar → High-risk vs healthy patients  
 
@@ -52,6 +51,5 @@ It highlights practical skills in:
 
 ## 🧑‍💻 Author  
 - Navin J
-
 - 
---
+
